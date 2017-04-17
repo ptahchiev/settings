@@ -1,0 +1,15 @@
+1) Download https://iristech.co
+2) Install Variety:
+sudo add-apt-repository ppa:peterlevi/ppa
+sudo apt-get update
+sudo apt-get install variety
+3) Install Skype Beta
+4) Install Glipper sudo apt-get update; sudo apt-get install glipper
+5) Install My-Weather Indicator:
+sudo add-apt-repository ppa:atareao/atareao
+sudo apt-get update
+sudo apt-get install my-weather-indicator
+6) Install System Load Indicator https://apps.ubuntu.com/cat/applications/precise/indicator-multiload/
+7) Spotify
+8) Thunderbird
+9) Viber
